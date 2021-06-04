@@ -1,6 +1,4 @@
-body {
-  background-color: lightblue;
-}
+
 
 .drawing-area {
   position: absolute;
@@ -24,7 +22,10 @@ body {
   width: 390px;
   height: 500px;
   position: relative;
-  background-color: #fff;
+/*   background-color: #fff; */
+ 
+  background-color: lightblue;
+
 }
 
 #canvas {
