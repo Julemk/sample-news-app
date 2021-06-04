@@ -7,7 +7,7 @@
   z-index: 10;
   width: 200px;
   height: 400px;
-    background-color: black;
+
 }
 
 .canvas-container {
@@ -23,9 +23,9 @@
   width: 390px;
   height: 500px;
   position: relative;
-/*   background-color: #fff; */
+  background-color: #fff;
  
-  background-color: black;
+
 
 }
 
