@@ -1,3 +1,7 @@
+* {
+ background-color: black; 
+}
+
 .drawing-area {
   position: absolute;
   top: 60px;
