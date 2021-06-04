@@ -1,5 +1,5 @@
 <?php 
-
-include_once("index.html");
+echo "asdasdasdasd";
+// include_once("index.html");
 
 ?>
